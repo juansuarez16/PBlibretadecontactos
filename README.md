@@ -1,6 +1,6 @@
 # PBlibretadecontactos
-Nombre del proyecto
-Breve descripción del proyecto.
+libretadecontactos
+Esta aplicacion es para gestionar los contactos de una persona.
 
 Requisitos
 Node.js (versión X.X.X)
