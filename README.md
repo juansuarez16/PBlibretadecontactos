@@ -40,7 +40,7 @@ Para arrancar el proyecto backend seria ir a la ruta raiz del proyecto y escribi
 Abre el navegador en la dirección http://localhost:3000.
 
 Uso
-cuando estes en la ruta http://localhost:3000, empieza a crear contactos en la lista
+cuando estes en la ruta http://localhost:3000, empieza a hacer gestion de la libreta
 
 
 
